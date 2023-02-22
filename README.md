@@ -11,6 +11,8 @@
 
 5. (KONVENS 2022) **Modelling Cultural and Socio-Economic Dimensions of Political Bias in German Tweets** *Aishwarya Anegundi, Konstantin Schulz, Christian Rauh, Georg Rehm* [[pdf](https://aclanthology.org/2022.konvens-1.5/)] [[github](https://github.com/konstantinschulz/political-bias-classification)] `Political` `German` `Tweets`
 
+6. (Emoji 2022) **Conducting Cross-Cultural Research on COVID-19 Memes** *Jing Ge-Stadnyk, Lusha Sa* [[pdf](https://aclanthology.org/2022.emoji-1.5/)] `English` `chines` `emoji` `global pandemic` `sociall` `political`
+
 <!---
 4. (conference) **paper** *author* [[pdf](website)]
 -->
