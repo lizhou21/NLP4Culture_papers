@@ -13,6 +13,10 @@
 
 6. (Emoji 2022) **Conducting Cross-Cultural Research on COVID-19 Memes** *Jing Ge-Stadnyk, Lusha Sa* [[pdf](https://aclanthology.org/2022.emoji-1.5/)] `English` `Chinese` `emoji` `global pandemic` `social` `political`
 
+7. (EMNLP 2022) **Stanceosaurus: Classifying Stance Towards Multicultural Misinformation** *Jonathan Zheng, Ashutosh Baheti, Tarek Naous, Wei Xu, Alan Ritter* [[pdf](https://aclanthology.org/2022.emnlp-main.138/)] [[github](https://github.com/JonathanQZheng/Stanceosaurus/)] `dataset` `Fact Checking` `English` `Hindi` `Arabic`
+
+
+
 <!---
-4. (conference) **paper** *author* [[pdf](website)]
+7. (conference) **paper** *author* [[pdf](website)]
 -->
