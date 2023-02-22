@@ -7,7 +7,7 @@
 
 3. (ACL2022) **Challenges and Strategies in Cross-Cultural NLP** *Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders SøgaardDaniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders Søgaard* [[pdf](https://aclanthology.org/2022.acl-long.482/)]
 
-4. (conference) **StereoKG: Data-Driven Knowledge Graph Construction For Cultural Knowledge and Stereotypes** *Awantee Deshpande, Dana Ruiter, Marius Mosbach, Dietrich Klakow* [[pdf](https://aclanthology.org/2022.woah-1.7/)] [[github](https://github.com/uds-lsv/stereokg)]
+4. (WOAH 2022) **StereoKG: Data-Driven Knowledge Graph Construction For Cultural Knowledge and Stereotypes** *Awantee Deshpande, Dana Ruiter, Marius Mosbach, Dietrich Klakow* [[pdf](https://aclanthology.org/2022.woah-1.7/)] [[github](https://github.com/uds-lsv/stereokg)] `Ethnic` `religious`
 
 
 
