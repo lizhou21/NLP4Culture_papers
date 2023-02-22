@@ -15,7 +15,7 @@
 
 7. (EMNLP 2022) **Stanceosaurus: Classifying Stance Towards Multicultural Misinformation** *Jonathan Zheng, Ashutosh Baheti, Tarek Naous, Wei Xu, Alan Ritter* [[pdf](https://aclanthology.org/2022.emnlp-main.138/)] [[github](https://github.com/JonathanQZheng/Stanceosaurus/)] `dataset` `Fact Checking` `English` `Hindi` `Arabic`
 
-
+8. (EMNLP 2022) **ArtELingo: A Million Emotion Annotations of WikiArt with Emphasis on Diversity over Language and Culture** *Youssef Mohamed, Mohamed Abdelfattah, Shyma Alhuwaider, Feifan Li, Xiangliang Zhang, Kenneth Church, Mohamed Elhoseiny* [[pdf](https://aclanthology.org/2022.emnlp-main.600/)] `multilingual` `dataset` `emoji`
 
 <!---
 7. (conference) **paper** *author* [[pdf](website)]
