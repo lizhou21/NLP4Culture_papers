@@ -9,7 +9,7 @@
 
 4. (WOAH 2022) **StereoKG: Data-Driven Knowledge Graph Construction For Cultural Knowledge and Stereotypes** *Awantee Deshpande, Dana Ruiter, Marius Mosbach, Dietrich Klakow* [[pdf](https://aclanthology.org/2022.woah-1.7/)] [[github](https://github.com/uds-lsv/stereokg)] `Ethnic` `religious`
 
-
+5. (conference) **Modelling Cultural and Socio-Economic Dimensions of Political Bias in German Tweets** *Aishwarya Anegundi, Konstantin Schulz, Christian Rauh, Georg Rehm* [[pdf](https://aclanthology.org/2022.konvens-1.5/)] [[github](https://github.com/konstantinschulz/political-bias-classification)] `Political` `German` `Tweets`
 
 <!---
 4. (conference) **paper** *author* [[pdf](website)]
