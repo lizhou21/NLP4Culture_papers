@@ -1,12 +1,12 @@
 # Cross-cultural research papers in NLP
 
-- (EACL2023) **Social Commonsense for Explanation and Cultural Bias Discovery.** *Lisa Bauer, Hanna Tischer, Mohit Bansal* [[pdf](https://aclanthology.org/2023.eacl-main.271/)] `emotion detection` `perceived value detection`
+- (EACL 2023) **Social Commonsense for Explanation and Cultural Bias Discovery.** *Lisa Bauer, Hanna Tischer, Mohit Bansal* [[pdf](https://aclanthology.org/2023.eacl-main.271/)] `emotion detection` `perceived value detection`
 
-- (Findings of ACL2022) **Good Night at 4 pm?! Time Expressions in Different Cultures.** *Shwartz, Vered* [[pdf](https://aclanthology.org/2022.findings-acl.224)]
+- (Findings of ACL 2022) **Good Night at 4 pm?! Time Expressions in Different Cultures.** *Shwartz, Vered* [[pdf](https://aclanthology.org/2022.findings-acl.224)]
 
-- (Findings of ACL2022) **EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English** *Weicheng Ma, Samiha Datta, Lili Wang, Soroush Vosoughi* [[pdf](https://aclanthology.org/2022.findings-acl.221)]
+- (Findings of ACL 2022) **EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English** *Weicheng Ma, Samiha Datta, Lili Wang, Soroush Vosoughi* [[pdf](https://aclanthology.org/2022.findings-acl.221)]
 
-- (ACL2022) **Challenges and Strategies in Cross-Cultural NLP** *Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders SøgaardDaniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders Søgaard* [[pdf](https://aclanthology.org/2022.acl-long.482/)]
+- (ACL 2022) **Challenges and Strategies in Cross-Cultural NLP** *Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders SøgaardDaniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders Søgaard* [[pdf](https://aclanthology.org/2022.acl-long.482/)]
 
 - (WOAH 2022) **StereoKG: Data-Driven Knowledge Graph Construction For Cultural Knowledge and Stereotypes** *Awantee Deshpande, Dana Ruiter, Marius Mosbach, Dietrich Klakow* [[pdf](https://aclanthology.org/2022.woah-1.7/)] [[github](https://github.com/uds-lsv/stereokg)] `Ethnic` `religious`
 
