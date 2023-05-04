@@ -1,6 +1,6 @@
 # Cross-cultural research papers in NLP
 
-- (Findings of ACL2022) **Social Commonsense for Explanation and Cultural Bias Discovery.** *Lisa Bauer, Hanna Tischer, Mohit Bansal* [[pdf](https://aclanthology.org/2023.eacl-main.271/)] `emotion detection` `perceived value detection`
+- (EACL2023) **Social Commonsense for Explanation and Cultural Bias Discovery.** *Lisa Bauer, Hanna Tischer, Mohit Bansal* [[pdf](https://aclanthology.org/2023.eacl-main.271/)] `emotion detection` `perceived value detection`
 
 - (Findings of ACL2022) **Good Night at 4 pm?! Time Expressions in Different Cultures.** *Shwartz, Vered* [[pdf](https://aclanthology.org/2022.findings-acl.224)]
 
